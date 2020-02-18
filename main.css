@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Anaheim&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Squada+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Orbitron&display=swap');
+
+* {
+    color: black;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+#bg {         
+    background-image: url("bg.PNG");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: #FFFFFF;
+    background-position: center center;
+}
+
+.navi a {
+    color:rgb(57, 51, 148);
+    font-size: 20px;
+    font-family: 'Orbitron', sans-serif;
+    text-align: center;
+    padding:15px;
+  
+}
+
+.navi a:hover {
+    color: rgb(4, 0, 250)
+}
+.navi { background:#68b1ec;}
+
+}
+
+
+
+p {
+    color: white;
+    font-size: 20px;
+    font-family:'Anaheim', sans-serif;
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+   
+}
+
+
+h1, h2 {
+    font-family: 'Squada One', cursive;
+
+}
+
+p {
+    font-family: 'Anaheim', sans-serif;
+    font-size: 20px;
+    background-color: rgb(84, 180, 236)
+}
+
+.animatedgif {
+    width: 70px;
+    height: auto;
+  }
+
+
