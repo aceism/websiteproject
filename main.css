@@ -10,6 +10,16 @@
     box-sizing: border-box;
 }
 
+.container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    min-height: vh;
+    padding-left: 10px;
+    flex-wrap:wrap;
+}
+
+
 #bg {         
     background-image: url("bg.PNG");
     background-repeat: no-repeat;
